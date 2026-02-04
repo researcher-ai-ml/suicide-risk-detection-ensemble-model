@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Dataset files (handled externally)
+*.csv
+*.zip
+
+# Environment variables
+.env
+
+# OS files
+Thumbs.db
+.DS_Store
